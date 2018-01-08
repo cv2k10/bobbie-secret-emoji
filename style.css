@@ -1,0 +1,27 @@
+body {
+    background-image: url( https://thumbs.dreamstime.com/b/isometric-seamless-pattern-d-optical-illusion-background-pastel-shades-texture-editable-vector-eps-illustration-81389266.jpg);
+background-repeat: repeat;
+background-size: cover;
+@font-face { font-family: "EmojiSymbols"; src: url('/fonts/EmojiSymbols-Regular.woff') format('woff'); text-decoration: none; font-style: normal; }
+
+}
+#data {
+  font-size: 14pt;
+}
+#data1 {
+  font-size: 14pt;
+}
+button {
+     display: inline-block;
+     width:65px;
+     height:40px;
+     border-width:2px;
+     border-style: solid;
+     border-color:blue;
+     background-color:#ff00ff;
+     border-radius:50% 50%;
+     text-align:center;
+     font-size:15px;
+     padding: 1px 1px;
+    
+}
